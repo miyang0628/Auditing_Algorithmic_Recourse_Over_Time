@@ -1,0 +1,9 @@
+﻿item,value
+S1 baseline median prescribed BMI reduction,3.59
+S1 strong-prox median prescribed BMI reduction,3.72
+S1 population q90 realised reduction,1.06
+S2 HTN OR baseline PS,0.608
+S2 HTN OR + baseline utilisation,0.599
+DM 1y treatment OR,1.368
+DM 1y IPW risk diff (pp),0.438
+DM pop achievement at median prescription,0.0092

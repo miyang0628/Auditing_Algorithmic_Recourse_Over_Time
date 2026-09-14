@@ -1,0 +1,4 @@
+﻿horizon,estimator,effect,point,lo,hi
+1y,IPW logistic,OR,1.368,1.006,1.859
+1y,IPW risk diff,pp,0.438,,
+2y,cloglog,HR-like,1.454,1.188,1.781

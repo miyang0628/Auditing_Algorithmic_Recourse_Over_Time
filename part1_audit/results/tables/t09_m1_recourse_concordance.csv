@@ -1,0 +1,4 @@
+﻿comparison,spearman_rho,median_abs_diff_BMI
+recourse dBMI GBM~LR (person-level),0.718,1.353
+risk-rank GBM~XGB,0.996,
+risk-rank GBM~LR,0.98,

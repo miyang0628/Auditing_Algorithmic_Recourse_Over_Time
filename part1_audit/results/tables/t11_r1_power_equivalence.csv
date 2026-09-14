@@ -1,0 +1,2 @@
+﻿lagged_HTN_OR,ci_lo,ci_hi,SE_logOR,MDE_OR_at_80pct_power,TOST_p_equiv_margin_1.25,equivalent_within_0.8_1.25,treated_n,onset_n
+1.03,0.779,1.361,0.142,0.67 or 1.49,0.087,False,1733,695

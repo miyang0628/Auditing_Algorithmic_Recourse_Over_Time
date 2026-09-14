@@ -1,0 +1,3 @@
+﻿weighting,OR,lo,hi
+treatment IPW only,0.608,0.45,0.822
+IPW x IPCW (attrition-corrected),0.609,0.456,0.813

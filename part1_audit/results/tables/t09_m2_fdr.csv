@@ -1,0 +1,8 @@
+﻿source,test,p,p_fdr,significant_fdr05
+axis3_actuarial,OUGUN,0.0094,0.0658,False
+axis3_actuarial,INGUN,0.1505,0.2107,False
+axis3_actuarial,OUOOP_1,0.0436,0.1526,False
+axis3_actuarial,INOOP,0.9467,0.9467,False
+axis3_actuarial,I_FFS_YN,0.6697,0.7813,False
+axis3_actuarial,UNMET,0.1063,0.1988,False
+axis5_unmet,attain_vs_unmet,0.1136,0.1988,False
