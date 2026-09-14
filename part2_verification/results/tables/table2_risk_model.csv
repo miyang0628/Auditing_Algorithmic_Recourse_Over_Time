@@ -1,0 +1,5 @@
+Variable,OR,CI_low,CI_high,p
+BMI (+1),1.1088,1.0869,1.1311,0.0
+Age (+1yr),1.0522,1.047,1.0574,0.0
+Current smoker,1.2938,1.0609,1.578,0.011
+Regular exercise,0.9075,0.7837,1.0509,0.1947

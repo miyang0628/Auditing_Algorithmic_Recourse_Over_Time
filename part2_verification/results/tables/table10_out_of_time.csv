@@ -1,0 +1,3 @@
+Model,AUC,Brier
+RandomForest,0.7056,0.2016
+Logistic,0.7319,0.2357

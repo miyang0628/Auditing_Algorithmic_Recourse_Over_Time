@@ -1,0 +1,4 @@
+term,coef_pp,ci_lo,ci_hi,p
+treated,-0.041,-0.098,0.016,0.157
+treated:C(rel)[T.1],0.375,-1.184,1.933,0.638
+treated:C(rel)[T.2],0.148,-1.471,1.766,0.858
